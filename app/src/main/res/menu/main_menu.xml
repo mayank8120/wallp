@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/home_nav_but"
+        android:title="Wallpapers"
+        android:icon="@drawable/ic_baseline_monochrome_photos_24"
+        android:name="android:itemTextAppearance"
+        />
+    <item android:id="@+id/star_nav_but"
+        android:title="Collections"
+        android:icon="@drawable/ic_baseline_dashboard_24"/>
+    <item android:id="@+id/bookmark_nav_but"
+        android:title="Loved"
+        android:icon="@drawable/heartstatic"/>
+    <item android:id="@+id/profile_nav_but"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"/>
+
+
+</menu>
